@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Universal-App-Prinkal</string>
+    <string name="search_hint">Universal-App-Prinkal</string>
+    <string name="search_settings_help">Universal-App-Prinkal</string>
+    <string name="text_serach_dialog_example">ANDROID SEARCH DIALOG</string>
+    <string name="search_title">Search</string>
+
+
+
+    <string name="process_id_of_server">Process ID of Server</string>
+    <string name="connection_count_of_server">Connection Count of Server</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="say_something_to_server">Say Something to search on searchable app</string>
+    <string name="salut">Salut!</string>
+    <string name="title_aidl">AIDL</string>
+    <string name="title_messenger">Messenger</string>
+    <string name="title_broadcast">Broadcast</string>
+    <string name="title_content_provider">Content Provider</string>
+    <string name="connect_via_messenger">Connect via Messenger</string>
+    <string name="send_broadcast">Send Broadcast</string>
+    <string name="broadcast_sent">Broadcast Sent</string>
+    <string name="query_updated">New search query requested. Please Select one of these four way to fetch search results from SEARCHABLE APP.</string>
+    <string name="via_content_provider">via ContentProvider</string>
+    <string name="via_aidl">via AIDL</string>
+    <string name="via_messenger">via Messenger</string>
+    <string name="via_broadcast">via BroadcastReceiver</string>
+    <string name="text_guide"><![CDATA[Step 1. Click search icon to input search query \n\nStep 2. Select given options to search.\n\n Result will be shown to different fragment screen.]]></string>
+</resources>
